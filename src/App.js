@@ -1,7 +1,8 @@
 import React, { Component } from "react";
-import "./App.css";
 import { CardList } from "./components/card-list/cardList.component";
 import { SearchBox } from "./components/searchbox/searchBox.component";
+import "./App.css";
+
 
 class App extends Component {
   constructor() {
